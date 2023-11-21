@@ -1,0 +1,90 @@
+{
+    "IL": [
+        {
+            "sender circuit": "IL",
+            "connection description": "YES",
+            "reciever circuit": "mPFC",
+            "Pointers on literature": "As distal IL dendrites receive input primarily from subcortical regions [34,35] , long-term effects of MS may serve to change mPFC connectivity patterns to focus more on local cortical circuits, which may underlie MS effects on other mPFC functions.",
+            "Pointers on figure": "ND",
+            "Size": "ND"
+        }
+    ],
+    "amygdala\u2014prefrontal": [
+        {
+            "sender circuit": "Amygdala",
+            "connection description": "YES",
+            "reciever circuit": "Prefrontal",
+            "Pointers on literature": "Early developmental  emergence  of  human  amygdala\u2014prefrontal  connectivity after  maternal  deprivation,  Proc.  Natl.  Acad.  Sci.  U.  S.  A.  110  (2013) 15638\u201315643,  http://dx.doi.org/10.1073/pnas.1307893110/-/ DCSupplemental.www.pnas.org/cgi/doi/10.1073/pnas.1307893110 .",
+            "Pointers on figure": "ND",
+            "Size": "ND"
+        }
+    ],
+    "prefrontal cortex-amygdala": [
+        {
+            "sender circuit": "prefrontal cortex",
+            "connection description": "YES",
+            "reciever circuit": "amygdala",
+            "Pointers on literature": "Estrogen promotes stress sensitivity in a prefrontal cortex-amygdala pathway, Cereb. Cortex 20 (2010) 2560\u20132567, http://dx.doi.org/10.1093/cercor/bhq003",
+            "Pointers on figure": "ND",
+            "Size": "ND"
+        }
+    ],
+    "hippocampal formation": [
+        {
+            "sender circuit": "Hippocampal formation",
+            "connection description": "YES",
+            "reciever circuit": "Mediodorsal thalamic nucleus",
+            "Pointers on literature": "L.W. Swanson,  W.M.  Cowan, An autoradiographic study of  the  organization  of the efferent  connections  of  the  hippocampal  formation  in  the  rat,  J.  Comp. Neurol.  172  (1977) 49\u201384, http://dx.doi.org/10.1002/cne.901720104 .",
+            "Pointers on figure": "ND",
+            "Size": "ND"
+        }
+    ],
+    "mediodorsal thalamic nucleus": [
+        {
+            "sender circuit": "mediodorsal thalamic nucleus",
+            "connection description": "YES",
+            "reciever circuit": "mediodorsal-prefrontal topography",
+            "Pointers on literature": "[38] H.J. Groenewegen, Organization of the afferent connections of the mediodorsal thalamic nucleus in the rat, related to the mediodorsal-prefrontal topography, Neuroscience 24 (1988) 379\u2013431.",
+            "Pointers on figure": "ND",
+            "Size": "ND"
+        }
+    ],
+    "prelimbic and infralimbic cortices": [
+        {
+            "sender circuit": "prelimbic and infralimbic cortices",
+            "connection description": "YES",
+            "reciever circuit": "ventral hippocampus, and basolateral amygdala",
+            "Pointers on literature": "D. Sierra-Mercado, N. Padilla-Coreano, G.J. Quirk, Dissociable roles of prelimbic and infralimbic cortices, ventral hippocampus, and basolateral amygdala in the expression and extinction of conditioned fear, Neuropsychopharmacology 36 (2011) 529\u2013538, http://dx.doi.org/10.1038/npp.2010.184",
+            "Pointers on figure": "ND",
+            "Size": "ND"
+        }
+    ],
+    "ventral hippocampus": [
+        {
+            "sender circuit": "ventral hippocampus",
+            "connection description": "YES",
+            "reciever circuit": "prelimbic and infralimbic cortices, basolateral amygdala",
+            "Pointers on literature": "D. Sierra-Mercado, N. Padilla-Coreano, G.J. Quirk, Dissociable roles of prelimbic and infralimbic cortices, ventral hippocampus, and basolateral amygdala in the expression and extinction of conditioned fear, Neuropsychopharmacology 36 (2011) 529\u2013538, http://dx.doi.org/10.1038/npp.2010.184 .",
+            "Pointers on figure": "ND",
+            "Size": "ND"
+        }
+    ],
+    "basolateral amygdala": [
+        {
+            "sender circuit": "Basolateral amygdala",
+            "connection description": "YES",
+            "reciever circuit": "Medial prefrontal cortex",
+            "Pointers on literature": "D. Sierra-Mercado, N. Padilla-Coreano, G.J. Quirk, Dissociable roles of prelimbic and infralimbic cortices, ventral hippocampus, and basolateral amygdala in the expression and extinction of conditioned fear, Neuropsychopharmacology 36 (2011) 529\u2013538, http://dx.doi.org/10.1038/npp.2010.184 .",
+            "Pointers on figure": "ND",
+            "Size": "ND"
+        },
+        {
+            "sender circuit": "Basolateral amygdala",
+            "connection description": "YES",
+            "reciever circuit": "Adolescent medial prefrontal cortex",
+            "Pointers on literature": "W.A. Koss, C.E. Belden, A.D. Hristov, J.M. Juraska, Dendritic remodeling in the adolescent medial prefrontal cortex and the basolateral amygdala of male and female rats, Synapse 68 (2014) 61\u201372, http://dx.doi.org/10.1002/syn.21716 .",
+            "Pointers on figure": "ND",
+            "Size": "ND"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "name":"deep insider",
+    "url":"https://atmarkit.itmedia.co.jp/ait/subtop/di/",
+    "staffs": [
+	{"name":"一色","age":40},
+	{"name":"かわさき","age":60}
+    ]
+}

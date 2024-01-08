@@ -1,3 +1,4 @@
+# 2024/01/03改定
 import base64
 import tempfile
 
